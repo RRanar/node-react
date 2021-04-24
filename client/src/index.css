@@ -1,0 +1,10 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+input.white-input {
+    border-bottom: 1px solid  #fff !important;
+}
+
+input.white-input + label {
+    color:#fff !important;
+}
+
